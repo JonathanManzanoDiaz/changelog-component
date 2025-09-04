@@ -1,4 +1,5 @@
 https://roadmap.sh/projects/changelog-component
 
-#DEMO:
+# DEMO:
+
 http://jonathanmanzanodiaz.github.io/changelog-component/
